@@ -1,0 +1,40 @@
+*{
+    font-family: cursive;
+}
+
+.btn{
+    color: white;
+    background-color: #FF8811;
+}
+
+.btn:hover{
+    background-color: #78A1BB !important;
+}
+
+.btn::after{
+    background-color: gray !important;
+}
+
+.nav-link{
+    color: black !important;
+}
+
+.nav-link:hover{
+    color: #F46036 !important;
+}
+
+.row{
+    height: 100vh;
+}
+
+.txt{
+    font-family: 'Silkscreen', cursive; 
+}
+
+.bg{
+    height: 85% !important;
+    background-image: url(3.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
